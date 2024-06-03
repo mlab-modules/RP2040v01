@@ -7,6 +7,15 @@ homepage: false
 images: []
 mark: 50
 status: 0
-tags: []
+tags:
+- arm
+- arm-cortex-m4
+- cpu
+- kicad
+- mlab
+- mlab-module
+- raspberry-pi
+- rp2040
+- mlab-cpu
 title: RP2040v01
-updated: '2024-06-03T20:52:57.800369+00:00'
+updated: '2024-06-03T20:56:09.002451+00:00'
