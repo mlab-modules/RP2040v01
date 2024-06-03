@@ -1,0 +1,8 @@
+bom: hw/sch_pcb/RP2040v01.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/RP2040v01.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/RP2040v01
+summary: MLAB cpu board with RP2040 dual-core microcontroler
