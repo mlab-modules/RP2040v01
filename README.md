@@ -7,9 +7,9 @@ The MLAB module RP2040v01 featuring the RP2040 processor is a powerful and flexi
 
 ## Features
 
-- **Processor**: Dual-core Arm Cortex-M0+ RP2040.
+- **Processor**: Dual-core Arm Cortex-M0+ [RP2040](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html).
 - **Buttons**: Boot and Reset buttons for easy programming and reset.
-- **GPIO**: Processor pins are exposed on double header pins for flexible connectivity.
+- **GPIO**: Processor pins are exposed on double header pins for flexible connectivity, as it is usual in MLAB modules.
 - **LED**: An LED connected via a transistor on pin 25 for status indication.
 - **USB**: USB-C connector for power and data communication.
 - **Power Management**: Integrated power converter to step down from 5V to 3.3V.
@@ -33,21 +33,25 @@ The RP2040 microcontroller offers multiple programming options, providing flexib
 1. **MicroPython**:
    - An easy-to-use Python interpreter ideal for beginners.
    - Allows rapid prototyping and development with an extensive set of libraries.
+   - [Official documentation](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf)
 
 
 2. **C/C++ with the Pico SDK**:
    - Provides low-level access to the hardware for maximum performance.
    - Suitable for more complex projects and experienced developers.
    - Requires setting up the Pico SDK and toolchain on your development environment.
+   - [User friendly documentation](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)
 
 3. **Arduino IDE**:
    - Offers a familiar environment for those used to Arduino development.
    - Supports both the Mbed OS core and the C/C++ SDK-based core.
    - Simplifies the process of writing, compiling, and uploading sketches to the RP2040.
+   - [Documentation](https://github.com/earlephilhower/arduino-pico)
 
 ### Drag-and-Drop Programming:
    - Allows you to upload firmware by simply dragging and dropping a UF2 file.
    - Useful for quick updates and easy deployment without needing an IDE.
+   - Minimal knowleadge required, best for beginners.
 
 ## Usage
 
@@ -59,6 +63,9 @@ The RP2040 microcontroller offers multiple programming options, providing flexib
 2. **Programming**:
    - Use your preferred IDE (e.g., Thonny, VS Code, Arduino IDE) and select the appropriate board and port.
    - Write your code and upload it to the RP2040.
+
+## References
+ - **PR2040** [documentation page](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
 
 
 ## Examples
