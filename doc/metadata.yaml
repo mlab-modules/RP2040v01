@@ -1,9 +1,10 @@
-description: MLAB cpu board with RP2040 dual-core microcontroler
+description: MLAB cpu board with RP2040 dual-core microcontroller
 github_branch: RP2040v01A
 github_description: MLAB cpu board with RP2040 dual-core microcontroler
 github_repo: RP2040v01
 github_url: https://github.com/mlab-modules/RP2040v01
 homepage: false
+image_title: doc/gen/img/RP2040v01-top.png
 images:
 - doc/gen/img/RP2040v01-bottom.png
 - doc/gen/img/RP2040v01-top.png
