@@ -9,7 +9,7 @@ The [MLAB](https://www.mlab.cz/) module RP2040v01 featuring the [RP2040](https:/
 
 - **Processor**: Dual-core Arm Cortex-M0+ [RP2040](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html).
 - **Buttons**: Boot and Reset buttons for easy programming and reset.
-- **GPIO**: Processor pins are exposed on double header pins for flexible connectivity, as it is usual in MLAB modules.
+- **GPIO**: Processor pins are exposed on doubleheader pins for flexible connectivity, as is usual in MLAB modules.
 - **LED**: An LED connected via a transistor on pin 25 for status indication.
 - **USB**: USB-C connector for power and data communication.
 - **Power Management**: Integrated power converter to step down from 5V to 3.3V.
@@ -40,7 +40,7 @@ The RP2040 microcontroller offers multiple programming options, providing flexib
    - Provides low-level access to the hardware for maximum performance.
    - Suitable for more complex projects and experienced developers.
    - Requires setting up the Pico SDK and toolchain on your development environment.
-   - [User friendly documentation](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)
+   - [User-friendly documentation](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)
 
 3. **Arduino IDE**:
    - Offers a familiar environment for those used to Arduino development.
@@ -51,7 +51,7 @@ The RP2040 microcontroller offers multiple programming options, providing flexib
 ### Drag-and-Drop Programming:
    - Allows you to upload firmware by simply dragging and dropping a UF2 file.
    - Useful for quick updates and easy deployment without needing an IDE.
-   - Minimal knowleadge required, best for beginners.
+   - Minimal knowledge required, best for beginners.
 
 ## Usage
 
