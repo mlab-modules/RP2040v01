@@ -13,7 +13,8 @@ images:
 - doc/gen/img/RP2040v01-top.svg
 - hw/cam_profi/assembly/RP2040v01-assembly_page_01.svg
 - hw/cam_profi/assembly/RP2040v01-assembly_page_02.svg
-mark: 50
+mark: 80
+homepage: true
 mod_ibom: hw/cam_profi/RP2040v01-ibom.html
 mod_scheme: doc/gen/RP2040v01-schematic.pdf
 status: 2
