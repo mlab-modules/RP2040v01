@@ -3,7 +3,7 @@ github_branch: RP2040v01A
 github_description: MCU board with RP2040 dual-core microcontroler.
 github_repo: RP2040v01
 github_url: https://github.com/mlab-modules/RP2040v01
-homepage: false
+homepage: true
 image_title: doc/gen/img/RP2040v01-top.png
 images:
 - doc/gen/img/RP2040v01-top.png
@@ -14,7 +14,6 @@ images:
 - hw/cam_profi/assembly/RP2040v01-assembly_page_01.svg
 - hw/cam_profi/assembly/RP2040v01-assembly_page_02.svg
 mark: 80
-homepage: true
 mod_ibom: hw/cam_profi/RP2040v01-ibom.html
 mod_scheme: doc/gen/RP2040v01-schematic.pdf
 status: 2
@@ -30,4 +29,4 @@ tags:
 - mlab-cpu
 - mlab-kicad
 title: RP2040v01
-updated: '2024-07-03T22:12:28.272387+00:00'
+updated: '2024-07-07T21:19:47.020630+00:00'
