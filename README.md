@@ -72,6 +72,9 @@ The RP2040 microcontroller offers multiple programming options, providing flexib
 
 Example code and projects can be found in the `examples` directory of the repository. These include basic GPIO manipulation, sensor interfacing, and communication protocols.
 
+## Applications
+### Logic analyzator
+![](doc/img/analyzator-small.jpg)
 
 ## Module Schematic
 
