@@ -1,6 +1,6 @@
-description: MCU board with RP2040 dual-core microcontroler.
+description: MCU board with RP2040 dual-core microcontroller.
 github_branch: RP2040v01A
-github_description: MCU board with RP2040 dual-core microcontroler.
+github_description: MCU board with RP2040 dual-core microcontroller.
 github_repo: RP2040v01
 github_url: https://github.com/mlab-modules/RP2040v01
 homepage: true
@@ -36,4 +36,4 @@ tags:
 - mlab-kicad
 tindie_url: https://www.tindie.com/products/35118/
 title: RP2040v01
-updated: '2024-07-08T21:32:16.389007+00:00'
+updated: '2024-07-08T22:35:25.560245+00:00'
