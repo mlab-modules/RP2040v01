@@ -41,3 +41,7 @@ We created the RP2040v01 to provide developers with a robust and flexible platfo
 - IoT applications
 - Sensor interfacing
 - Creating complex systems and designs with other MLAB modules
+
+# The package includes:
+- RP2040v01A module with pin headers soldered.
+- MLAB ALBASE mounting screw mounted in the module
