@@ -4,7 +4,7 @@ github_description: MCU board with RP2040 dual-core microcontroler.
 github_repo: RP2040v01
 github_url: https://github.com/mlab-modules/RP2040v01
 homepage: true
-image_title: doc/img/analyzator-small.jpg
+image_title: doc/img/RP2040v01-small.jpg
 images:
 - doc/img/RP2040v01-small.jpg
 - doc/img/RP2040v01_b.jpg
