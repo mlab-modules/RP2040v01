@@ -3,7 +3,7 @@
 
 The [MLAB](https://www.mlab.cz/) module RP2040v01 featuring the [RP2040](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html) processor is a powerful and flexible development board designed for a wide range of applications. The [RP2040](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html), a microcontroller from the Raspberry Pi Foundation, offers dual Arm Cortex-M0+ cores and extensive peripheral support.
 
-![RP2040v01 Image](doc/gen/img/RP2040v01-top.png)
+![RP2040v01 Image](doc/img/RP2040v01-small.jpg)
 
 ## Features
 
