@@ -6,6 +6,12 @@ github_url: https://github.com/mlab-modules/RP2040v01
 homepage: true
 image_title: doc/gen/img/RP2040v01-top.png
 images:
+- doc/img/RP2040v01-small.jpg
+- doc/img/RP2040v01_b.jpg
+- doc/img/RP2040v01_b-small.jpg
+- doc/img/analyzator.jpg
+- doc/img/RP2040v01.jpg
+- doc/img/analyzator-small.jpg
 - doc/gen/img/RP2040v01-top.png
 - doc/gen/img/RP2040v01-bottom.png
 - doc/gen/RP2040v01-schematic.svg
@@ -29,4 +35,4 @@ tags:
 - mlab-cpu
 - mlab-kicad
 title: RP2040v01
-updated: '2024-07-08T15:36:11.285218+00:00'
+updated: '2024-07-08T15:36:59.303806+00:00'
