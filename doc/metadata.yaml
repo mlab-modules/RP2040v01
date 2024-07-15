@@ -6,19 +6,19 @@ github_url: https://github.com/mlab-modules/RP2040v01
 homepage: true
 image_title: doc/img/RP2040v01-small.jpg
 images:
-- doc/img/RP2040v01-small.jpg
-- doc/img/RP2040v01_b.jpg
-- doc/img/RP2040v01_b-small.jpg
-- doc/img/analyzator.jpg
 - doc/img/RP2040v01.jpg
+- doc/img/analyzator.jpg
 - doc/img/analyzator-small.jpg
+- doc/img/RP2040v01-small.jpg
+- doc/img/RP2040v01_b-small.jpg
+- doc/img/RP2040v01_b.jpg
 - doc/gen/img/RP2040v01-top.png
 - doc/gen/img/RP2040v01-bottom.png
-- doc/gen/RP2040v01-schematic.svg
-- doc/gen/img/RP2040v01-bottom.svg
-- doc/gen/img/RP2040v01-top.svg
-- hw/cam_profi/assembly/RP2040v01-assembly_page_01.svg
 - hw/cam_profi/assembly/RP2040v01-assembly_page_02.svg
+- hw/cam_profi/assembly/RP2040v01-assembly_page_01.svg
+- doc/gen/RP2040v01-schematic.svg
+- doc/gen/img/RP2040v01-top.svg
+- doc/gen/img/RP2040v01-bottom.svg
 mark: 80
 mod_ibom: hw/cam_profi/RP2040v01-ibom.html
 mod_scheme: doc/gen/RP2040v01-schematic.pdf
@@ -36,4 +36,4 @@ tags:
 - mlab-kicad
 tindie_url: https://www.tindie.com/products/35118/
 title: RP2040v01
-updated: '2024-07-08T22:35:25.560245+00:00'
+updated: '2024-07-15T01:11:15.378471+00:00'
