@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/RP2040v01.kicad_sch</source>
-    <date>Sun Jun  9 18:11:15 2024</date>
-    <tool>Eeschema 7.0.11+1</tool>
+    <date>2024-07-16T01:11:54+0000</date>
+    <tool>Eeschema 8.0.3+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -29,13 +29,16 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
       <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5273535a-f7ed-48db-b453-76d6a0c8e130</tstamps>
     </comp>
@@ -44,13 +47,16 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
       <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>52616e8f-023e-4d42-9d83-f505106b43f2</tstamps>
     </comp>
@@ -59,13 +65,16 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
       <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>945e5201-0b57-4c71-b16a-1f6556e18506</tstamps>
     </comp>
@@ -74,13 +83,16 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
       <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a2f20018-76a3-4739-983b-7c03649e5160</tstamps>
     </comp>
@@ -89,13 +101,16 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
       <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>49a486ff-c7c9-492e-9bc4-5c79fdf5ff06</tstamps>
     </comp>
@@ -104,13 +119,16 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
       <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>181735b4-6ef2-4b81-9261-2da55c069403</tstamps>
     </comp>
@@ -119,13 +137,16 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
       <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cf55f7c0-3710-4734-be9e-b6af0fffeda0</tstamps>
     </comp>
@@ -134,13 +155,16 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
       <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1de03f2b-6243-426b-84f3-cc7d39d4a98e</tstamps>
     </comp>
@@ -149,13 +173,16 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
       <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5f4c1cc3-d992-4e17-bb76-c4e5ad02a1fc</tstamps>
     </comp>
@@ -164,13 +191,16 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
       <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d9df6936-4bcf-48af-a5f7-1f3967e5d2ab</tstamps>
     </comp>
@@ -179,13 +209,16 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
       <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>bbe6c569-73b0-4c9f-a639-d61561ea0313</tstamps>
     </comp>
@@ -194,13 +227,16 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
       <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9974a008-78de-4ffc-8130-2c45e862adb9</tstamps>
     </comp>
@@ -209,13 +245,16 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
       <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4b4b82ee-ca48-4bed-940f-6df827fbe8c7</tstamps>
     </comp>
@@ -224,13 +263,16 @@
       <footprint>Mlab_D:LED_1206_KPTR</footprint>
       <fields>
         <field name="Obchod">OK</field>
+        <field name="Footprint">Mlab_D:LED_1206_KPTR</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
       <property name="Obchod" value="OK"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Light emitting diode, small symbol"/>
       <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cb67431a-fdd2-4cd6-94ae-80c8bda11653</tstamps>
     </comp>
@@ -239,13 +281,16 @@
       <footprint>Mlab_D:LED_1206_KPTR</footprint>
       <fields>
         <field name="Obchod">OK</field>
+        <field name="Footprint">Mlab_D:LED_1206_KPTR</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
       <property name="Obchod" value="OK"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Light emitting diode, small symbol"/>
       <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1c2e31ae-23bc-4398-9165-adfdbf6e6d21</tstamps>
     </comp>
@@ -253,21 +298,18 @@
       <value>MountingHole_Pad</value>
       <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
       <fields>
-        <field name="Datasheet"/>
-        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_Pad_Via</field>
         <field name="Obchod">OK</field>
-        <field name="Value">MountingHole_Pad</field>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_Pad_Via</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Datasheet" value=""/>
-      <property name="Footprint" value="MountingHole:MountingHole_3.2mm_M3_Pad_Via"/>
-      <property name="Value" value="MountingHole_Pad"/>
       <property name="Obchod" value="OK"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="Mounting Hole with connection"/>
       <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*Pad*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>709a40fc-28fb-4f8a-a06e-ad6bc43342f8</tstamps>
     </comp>
@@ -275,21 +317,18 @@
       <value>MountingHole_Pad</value>
       <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
       <fields>
-        <field name="Datasheet"/>
-        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_Pad_Via</field>
         <field name="Obchod">OK</field>
-        <field name="Value">MountingHole_Pad</field>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_Pad_Via</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Datasheet" value=""/>
-      <property name="Footprint" value="MountingHole:MountingHole_3.2mm_M3_Pad_Via"/>
-      <property name="Value" value="MountingHole_Pad"/>
       <property name="Obchod" value="OK"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="Mounting Hole with connection"/>
       <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*Pad*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d21c7b7f-f59c-4d29-aa98-563b13158c07</tstamps>
     </comp>
@@ -297,21 +336,18 @@
       <value>MountingHole_Pad</value>
       <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
       <fields>
-        <field name="Datasheet"/>
-        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_Pad_Via</field>
         <field name="Obchod">OK</field>
-        <field name="Value">MountingHole_Pad</field>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_Pad_Via</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Datasheet" value=""/>
-      <property name="Footprint" value="MountingHole:MountingHole_3.2mm_M3_Pad_Via"/>
-      <property name="Value" value="MountingHole_Pad"/>
       <property name="Obchod" value="OK"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="Mounting Hole with connection"/>
       <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*Pad*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>83abe7e3-bd39-4648-ad60-8684f727d8f5</tstamps>
     </comp>
@@ -319,31 +355,32 @@
       <value>MountingHole_Pad</value>
       <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
       <fields>
-        <field name="Datasheet"/>
-        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_Pad_Via</field>
         <field name="Obchod">OK</field>
-        <field name="Value">MountingHole_Pad</field>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_Pad_Via</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Datasheet" value=""/>
-      <property name="Footprint" value="MountingHole:MountingHole_3.2mm_M3_Pad_Via"/>
-      <property name="Value" value="MountingHole_Pad"/>
       <property name="Obchod" value="OK"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
       <property name="exclude_from_bom"/>
-      <property name="ki_description" value="Mounting Hole with connection"/>
       <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*Pad*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>873d0755-d05a-4866-bfac-b1e08acfe096</tstamps>
     </comp>
     <comp ref="J1">
       <value>HEADER_1x03</value>
       <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x03</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="ki_keywords" value="2x03, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b85b6c83-27c2-4199-aaeb-0fc843773f87</tstamps>
@@ -354,23 +391,30 @@
       <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
       <fields>
         <field name="Obchod">OK</field>
+        <field name="Footprint">Mlab_CON:USBC GCT_USB4105-GF-A</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="MLAB_CONNECTORS" part="USBC_USB4105-GF-A" description="USB 2.0-only Type-C Receptacle connector"/>
       <property name="Obchod" value="OK"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="USB 2.0-only Type-C Receptacle connector"/>
       <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
+      <property name="ki_fp_filters" value="USB*C*Receptacle*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>eb0a7a85-bf2b-4b4a-b86a-ec9d514abea4</tstamps>
     </comp>
     <comp ref="J3">
       <value>HEADER_1x03</value>
       <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x03</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="ki_keywords" value="2x03, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1fc7f41a-7f02-45e7-a2da-ead0a4f53443</tstamps>
@@ -378,12 +422,16 @@
     <comp ref="J4">
       <value>HEADER_1x10</value>
       <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_1x02</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_1x02" description="1x02 2.54 mm pitch header"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
       <property name="exclude_from_bom"/>
       <property name="dnp"/>
-      <property name="ki_description" value="1x02 2.54 mm pitch header"/>
       <property name="ki_keywords" value="1x02, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>794dca75-8ae1-4873-b58f-dcf11868204d</tstamps>
@@ -391,10 +439,14 @@
     <comp ref="J5">
       <value>HEADER_1x10</value>
       <footprint>Mlab_Pin_Headers:Straight_2x10</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x10</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x10_PARALLEL" description="2x10 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="2x10 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="ki_keywords" value="2x10, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fbf3afe8-f8d3-4090-9b15-df8587c62d93</tstamps>
@@ -402,10 +454,14 @@
     <comp ref="J6">
       <value>HEADER_1x10</value>
       <footprint>Mlab_Pin_Headers:Straight_2x10</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x10</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x10_PARALLEL" description="2x10 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="2x10 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="ki_keywords" value="2x10, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c039a2b8-60ad-4863-b756-13e836d7e9dc</tstamps>
@@ -413,10 +469,14 @@
     <comp ref="J7">
       <value>HEADER_1x10</value>
       <footprint>Mlab_Pin_Headers:Straight_2x12</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x12</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x12_PARALLEL" description="2x12 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="2x12 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="ki_keywords" value="2x12, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>87ee64a7-fa9e-457b-b6d3-13141e7473b8</tstamps>
@@ -424,10 +484,14 @@
     <comp ref="J8">
       <value>HEADER_2x05</value>
       <footprint>Mlab_Pin_Headers:Straight_2x05</footprint>
+      <fields>
+        <field name="Footprint">Mlab_Pin_Headers:Straight_2x05</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="MLAB_HEADER" part="HEADER_2x05_PARALLEL" description="2x05 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="2x05 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="ki_keywords" value="2x05, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e39e4375-e0dc-4160-b4b5-60f7427d2427</tstamps>
@@ -437,12 +501,14 @@
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Q_NPN_BCE" description="NPN transistor, base/collector/emitter"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="NPN transistor, base/collector/emitter"/>
       <property name="ki_keywords" value="transistor NPN"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>acd96e9b-fe3b-44d7-aa86-b3741ea977a7</tstamps>
@@ -452,13 +518,16 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Resistor, small symbol"/>
       <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f4c894f2-28af-4c5b-8d75-81d93a5bd653</tstamps>
     </comp>
@@ -467,13 +536,16 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Resistor, small symbol"/>
       <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1a39c585-3b47-44cd-9122-e90b8a981dd1</tstamps>
     </comp>
@@ -482,13 +554,16 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Resistor, small symbol"/>
       <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>097ea6f8-12ea-4e9f-be51-eacfa1ae220e</tstamps>
     </comp>
@@ -497,14 +572,17 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">OK</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Obchod" value="OK"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
       <property name="dnp"/>
-      <property name="ki_description" value="Resistor, small symbol"/>
       <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>aef6ed93-0afe-4132-9f4a-3089f58fc07b</tstamps>
     </comp>
@@ -513,13 +591,16 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Resistor, small symbol"/>
       <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>213ac439-2eb4-4d98-8c9f-044cf0351170</tstamps>
     </comp>
@@ -528,13 +609,16 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Resistor, small symbol"/>
       <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d7bb1d99-fdbf-4e4d-a783-eb76a6039e77</tstamps>
     </comp>
@@ -543,13 +627,16 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Resistor, small symbol"/>
       <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>32e9b8f3-44e8-4c3c-9bcb-fc732a312fa1</tstamps>
     </comp>
@@ -558,13 +645,16 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Resistor, small symbol"/>
       <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6b0b1a88-48f1-42aa-8146-6870111055d8</tstamps>
     </comp>
@@ -572,18 +662,15 @@
       <value>200R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Datasheet"/>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
-        <field name="Value">200R</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="Datasheet" value=""/>
-      <property name="Footprint" value="Resistor_SMD:R_0805_2012Metric"/>
-      <property name="Value" value="200R"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Resistor, small symbol"/>
       <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>61d858b0-d669-464a-9712-951009425be4</tstamps>
     </comp>
@@ -592,24 +679,32 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Resistor, small symbol"/>
       <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5694274e-4c82-45c5-bfac-1dd6b1424837</tstamps>
     </comp>
     <comp ref="R11">
       <value>390R</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Resistor, small symbol"/>
       <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6bb2054b-e81a-4bcd-91b4-50d69a6744da</tstamps>
     </comp>
@@ -618,12 +713,14 @@
       <footprint>Button_Switch_SMD:SW_Push_1P1T_NO_Vertical_Wuerth_434133025816</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Button_Switch_SMD:SW_Push_1P1T_NO_Vertical_Wuerth_434133025816</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Push button switch, generic, two pins"/>
       <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6a4ee329-dcc7-49f9-9eec-042f4e2c074d</tstamps>
@@ -633,12 +730,14 @@
       <footprint>Button_Switch_SMD:SW_Push_1P1T_NO_Vertical_Wuerth_434133025816</footprint>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Button_Switch_SMD:SW_Push_1P1T_NO_Vertical_Wuerth_434133025816</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Push button switch, generic, two pins"/>
       <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2a67459a-f085-4f62-979c-e114936bf820</tstamps>
@@ -649,13 +748,16 @@
       <datasheet>http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</datasheet>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Regulator_Linear" part="NCP1117-3.3_SOT223" description="1A Low drop-out regulator, Fixed Output 3.3V, SOT-223"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="1A Low drop-out regulator, Fixed Output 3.3V, SOT-223"/>
       <property name="ki_keywords" value="REGULATOR LDO 3.3V"/>
+      <property name="ki_fp_filters" value="SOT?223*TabPin2*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b4932847-3384-425e-a18a-ddb24527de1d</tstamps>
     </comp>
@@ -665,13 +767,16 @@
       <datasheet>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</datasheet>
       <fields>
         <field name="Obchod">TME</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/usblc6-2.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Power_Protection" part="USBLC6-2SC6" description="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
       <property name="Obchod" value="TME"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
       <property name="ki_keywords" value="usb ethernet video"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6df37d15-cd3d-43fa-a898-58ada00ac7c1</tstamps>
     </comp>
@@ -681,13 +786,16 @@
       <datasheet>http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf</datasheet>
       <fields>
         <field name="Obchod">Mouser</field>
+        <field name="Footprint">Package_SO:SOIC-8_5.23x5.23mm_P1.27mm</field>
+        <field name="Datasheet">http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="Memory_Flash" part="W25Q128JVS" description="128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8"/>
       <property name="Obchod" value="Mouser"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8"/>
       <property name="ki_keywords" value="flash memory SPI QPI DTR"/>
+      <property name="ki_fp_filters" value="SOIC*5.23x5.23mm*P1.27mm*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a620c44d-cbc1-4979-8fb4-55bc06222862</tstamps>
     </comp>
@@ -697,13 +805,16 @@
       <datasheet>https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</datasheet>
       <fields>
         <field name="Obchod">Farnell</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm</field>
+        <field name="Datasheet">https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</field>
+        <field name="Description"/>
       </fields>
       <libsource lib="MCU_RaspberryPi" part="RP2040" description="A microcontroller by Raspberry Pi"/>
       <property name="Obchod" value="Farnell"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="A microcontroller by Raspberry Pi"/>
       <property name="ki_keywords" value="RP2040 ARM Cortex-M0+ USB"/>
+      <property name="ki_fp_filters" value="QFN*7x7mm?P0.4mm?EP3.2x3.2mm*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f322dce5-1a95-47e7-9891-dfa295daa1e0</tstamps>
     </comp>
@@ -712,13 +823,16 @@
       <footprint>Crystal:Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm</footprint>
       <fields>
         <field name="Obchod">Farnell</field>
+        <field name="Footprint">Crystal:Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
       <property name="Obchod" value="Farnell"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RP2040v01.kicad_sch"/>
-      <property name="ki_description" value="Four pin crystal, GND on pins 2 and 4"/>
       <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <property name="ki_fp_filters" value="Crystal*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>942d7376-f0f7-43dc-87dc-87491bbb73c6</tstamps>
     </comp>
@@ -733,7 +847,9 @@
       <fields>
         <field name="Reference">C</field>
         <field name="Value">C_Small</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -749,7 +865,9 @@
       <fields>
         <field name="Reference">Y</field>
         <field name="Value">Crystal_GND24</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Four pin crystal, GND on pins 2 and 4</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -769,7 +887,9 @@
       <fields>
         <field name="Reference">D</field>
         <field name="Value">LED_Small</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode, small symbol</field>
       </fields>
       <pins>
         <pin num="1" name="K" type="passive"/>
@@ -782,7 +902,9 @@
       <fields>
         <field name="Reference">Q</field>
         <field name="Value">Q_NPN_BCE</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">NPN transistor, base/collector/emitter</field>
       </fields>
       <pins>
         <pin num="1" name="B" type="input"/>
@@ -799,7 +921,9 @@
       <fields>
         <field name="Reference">R</field>
         <field name="Value">R_Small</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Resistor, small symbol</field>
       </fields>
       <pins>
         <pin num="1" name="" type="passive"/>
@@ -817,6 +941,7 @@
         <field name="Value">RP2040</field>
         <field name="Footprint">Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm</field>
         <field name="Datasheet">https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</field>
+        <field name="Description">A microcontroller by Raspberry Pi</field>
       </fields>
       <pins>
         <pin num="1" name="IOVDD" type="power_in"/>
@@ -887,6 +1012,8 @@
         <field name="Reference">J</field>
         <field name="Value">USBC_USB4105-GF-A</field>
         <field name="Footprint">Mlab_CON:USBC GCT_USB4105-GF-A</field>
+        <field name="Datasheet"/>
+        <field name="Description">USB 2.0-only Type-C Receptacle connector</field>
       </fields>
       <pins>
         <pin num="A1/B12" name="GND" type="passive"/>
@@ -912,6 +1039,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">HEADER_1x02</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">1x02 2.54 mm pitch header</field>
       </fields>
       <pins>
         <pin num="1" name="" type="input"/>
@@ -923,6 +1053,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">HEADER_2x03_PARALLEL</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">2x03 2.54 mm pitch header, 2 pins next to each other are connected</field>
       </fields>
       <pins>
         <pin num="1" name="" type="input"/>
@@ -938,6 +1071,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">HEADER_2x05_PARALLEL</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">2x05 2.54 mm pitch header, 2 pins next to each other are connected</field>
       </fields>
       <pins>
         <pin num="1" name="" type="input"/>
@@ -957,6 +1093,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">HEADER_2x10_PARALLEL</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">2x10 2.54 mm pitch header, 2 pins next to each other are connected</field>
       </fields>
       <pins>
         <pin num="1" name="" type="input"/>
@@ -986,6 +1125,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">HEADER_2x12_PARALLEL</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">2x12 2.54 mm pitch header, 2 pins next to each other are connected</field>
       </fields>
       <pins>
         <pin num="1" name="" type="input"/>
@@ -1023,7 +1165,9 @@
       <fields>
         <field name="Reference">H</field>
         <field name="Value">MountingHole_Pad</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole with connection</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="input"/>
@@ -1040,6 +1184,7 @@
         <field name="Value">W25Q128JVS</field>
         <field name="Footprint">Package_SO:SOIC-8_5.23x5.23mm_P1.27mm</field>
         <field name="Datasheet">http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf</field>
+        <field name="Description">128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8</field>
       </fields>
       <pins>
         <pin num="1" name="~{CS}" type="input"/>
@@ -1063,6 +1208,7 @@
         <field name="Value">USBLC6-2SC6</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
         <field name="Datasheet">https://www.st.com/resource/en/datasheet/usblc6-2.pdf</field>
+        <field name="Description">Very low capacitance ESD protection diode, 2 data-line, SOT-23-6</field>
       </fields>
       <pins>
         <pin num="1" name="I/O1" type="passive"/>
@@ -1084,6 +1230,7 @@
         <field name="Value">NCP1117-3.3_SOT223</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
         <field name="Datasheet">http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</field>
+        <field name="Description">1A Low drop-out regulator, Fixed Output 3.3V, SOT-223</field>
       </fields>
       <pins>
         <pin num="1" name="GND" type="power_in"/>
@@ -1097,7 +1244,9 @@
       <fields>
         <field name="Reference">SW</field>
         <field name="Value">SW_Push</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Push button switch, generic, two pins</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
