@@ -6,12 +6,12 @@ github_url: https://github.com/mlab-modules/RP2040v01
 homepage: true
 image_title: doc/img/RP2040v01-small.jpg
 images:
-- doc/img/RP2040v01.jpg
-- doc/img/RP2040v01_b-small.jpg
-- doc/img/RP2040v01_b.jpg
-- doc/img/analyzator-small.jpg
-- doc/img/analyzator.jpg
 - doc/img/RP2040v01-small.jpg
+- doc/img/analyzator-small.jpg
+- doc/img/RP2040v01_b.jpg
+- doc/img/RP2040v01_b-small.jpg
+- doc/img/analyzator.jpg
+- doc/img/RP2040v01.jpg
 - doc/gen/img/RP2040v01-top.png
 - doc/gen/img/RP2040v01-bottom.png
 - doc/gen/RP2040v01-schematic.svg
@@ -36,4 +36,4 @@ tags:
 - mlab-kicad
 tindie_url: https://www.tindie.com/products/35118/
 title: RP2040v01
-updated: '2026-02-22T23:23:25.424480+00:00'
+updated: '2026-03-11T19:53:39.072917+00:00'
