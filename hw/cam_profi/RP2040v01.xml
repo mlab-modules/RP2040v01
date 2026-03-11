@@ -2,16 +2,16 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/RP2040v01.kicad_sch</source>
-    <date>2026-02-22T23:22:44+0000</date>
+    <date>2026-03-11T19:55:01+0000</date>
     <tool>Eeschema 9.0.7+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title/>
-        <company/>
+        <title>RP2040v01A</title>
+        <company>Mlab.cz</company>
         <rev/>
         <date/>
         <source>RP2040v01.kicad_sch</source>
-        <comment number="1" value=""/>
+        <comment number="1" value="MCU board for RP2040 dual-core microcontroller."/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
